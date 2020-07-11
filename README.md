@@ -9,6 +9,6 @@ Using Probability Distributions and GUI using Tkinter
 The Downloadble Executable File is Give in the Repository.
 
 
-'''python
+```python
    print('my sudhanshu')
-'''
+```
