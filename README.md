@@ -3,5 +3,5 @@ Using Probability Distributions and GUI using Tkinter
 
 
 
-![](images/Module.png)
-![](images/Bot%20Algorithium.png)
+![](Images/Module.png)
+![](Images/Bot%20Algorithium.png)
